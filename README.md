@@ -1,0 +1,1 @@
+# Deep-learning-model-for-Early-detection-of-plant-nutritional-deficiencies
